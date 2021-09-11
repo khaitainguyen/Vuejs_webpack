@@ -1,0 +1,28 @@
+1. Dev
+  - babel : compile ES6 -> ES5
+  - webpack -> Dong goi ma nguon
+
+2. Production
+
+3, Moi thanh phan trong  web tuong ung voi moi Component -> Tuong ung 1 file .vue
+4. Tong hop cau chuc:
+  - Gi thieu
+  - Cach su ly
+  - Cau truc dieu khien va vong lap
+  - array, object, BT tong hop
+  - Cach su dung CLI
+  - Props, Event, Ref, Slot
+  - LifeCycle
+  - He thong kien thuc va ma nguon
+
+5.
+  + Props -> Nhung data truyen tu Comp parent -> Comp child
+          -> Cu phap giong thuoc tinh
+  + Props down:  truyen du lieu tu parent -> child ( child chi dc sd, ko dc thay doi)
+  + Event up: truyen sk cho Component parent, comp parent se tien hanh thay doi data
+  + Ref: style button
+  + Slot: truyen 1 cau truc html
+
+6. LifeCycle
+  + Goi API, call Ajax -> created()
+  + sd jQuery -> tu mounted tro di
